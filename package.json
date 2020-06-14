@@ -1,0 +1,12 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo buliding...."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
